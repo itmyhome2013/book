@@ -5,10 +5,10 @@
 baseurl: /
 
 # site title
-title: Book
+title: 麦田读书
 
 # site favicon, absolute path required
-favicon: /assets/img/favicon.ico
+favicon: /assets/img/favicon.jpg
 
 # home button image, absolute path requried
 avatar: /assets/img/avatar.jpg
